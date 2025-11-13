@@ -2,11 +2,15 @@
 
 🚀 A conversational AI agent built on IBM watsonx for car insurance support.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## Team
 
 - Nitin Chauhan  
 - Omkar Kale  
 - Muskan
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Features
 
@@ -14,6 +18,8 @@
 ✅ Classify positive/negative sentiment  
 ✅ Summarize and generate follow-up emails  
 ✅ Retrieve web resources via Google search  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Architecture
 
